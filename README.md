@@ -33,7 +33,7 @@ For recording session types, I used a dropdown list with two values: **In-Person
 - 💡 **Knowledge gained:** This dashboard helped me quickly identify the impact of the number of sessions on my work, showing how much time I spent in sessions compared to my total working hours.
 
 #### Distribution of hours in sessions:  
-![Distribution of hours in sessions](images/PT1.gif)  
+![Distribution of hours in sessions](images/PT2.gif)  
 
 - ⚙️ **Looker Studio Features:** A pie chart was used to represent the comparison between hours spent in in-person sessions and hours spent online.  
 - 🎨 **Color selection:** A blue gradient was used to represent the comparison between both percentages.  
