@@ -26,7 +26,7 @@ For recording session types, I used a dropdown list with two values: **In-Person
 ## 📊 Creating the Dashboard
 ### • Charts:
 #### Percentage of hours worked vs hours in sessions:
-![Percentage of hours worked](images/Principal.gif)  
+![Percentage of hours worked](images/PT1.gif)  
 
 ### • Looker Studio Features:
 - A **Scorecard** was used to represent the total percentage, followed by a progress bar to show the measure toward 100%.
