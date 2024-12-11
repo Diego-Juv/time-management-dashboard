@@ -28,9 +28,14 @@ For recording session types, I used a dropdown list with two values: **In-Person
 #### Percentage of hours worked vs hours in sessions:
 ![Percentage of hours worked](images/PT1.gif)  
 
-### • Looker Studio Features:
-- A **Scorecard** was used to represent the total percentage, followed by a progress bar to show the measure toward 100%.
-- **Color selection**: Colors were chosen based on the visual identity of the dashboard.
+- ⚙️ **Looker Studio Features:** A Scorecard was used to represent the total percentage, followed by a progress bar to show the measure toward 100%.
+- 🎨 **Color selection:** Colors were chosen based on the visual identity of the dashboard.
+- 💡 **Knowledge gained:** This dashboard helped me quickly identify the impact of the number of sessions on my work, showing how much time I spent in sessions compared to my total working hours.
 
-### • Knowledge Gained:
-This dashboard helped me quickly identify the impact of the number of sessions on my work, showing how much time I spent in sessions compared to my total working hours.
+#### Distribution of hours in sessions:  
+![Distribution of hours in sessions](images/PT1.gif)  
+
+- ⚙️ **Looker Studio Features:** A pie chart was used to represent the comparison between hours spent in in-person sessions and hours spent online.  
+- 🎨 **Color selection:** A blue gradient was used to represent the comparison between both percentages.  
+- 💡 **Knowledge gained:** By identifying the percentage of time invested in sessions, I was able to see the breakdown of this distribution, comparing the two types of sessions. Additionally, the number of hours was included to better understand the time spent during the month.  
+- ✨ **Special Features:** To properly visualize the distribution of hours, minutes, and seconds in Looker Studio, the source data must be converted into seconds, as Looker Studio does not natively transform these time formats.
