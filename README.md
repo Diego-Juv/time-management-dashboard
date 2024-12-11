@@ -1,3 +1,5 @@
+![Percentage of hours worked](images/Principal.gif)  
+
 ## 📊 Introduction
 This project presents a database tracking the time spent in work sessions. It compares the time invested in in-person sessions (such as work meetings, collaborative sessions in meeting rooms, etc.) versus online sessions (such as presentations of dashboards or meetings with remote colleagues).
 
@@ -24,7 +26,7 @@ For recording session types, I used a dropdown list with two values: **In-Person
 ## 📊 Creating the Dashboard
 ### • Charts:
 #### Percentage of hours worked vs hours in sessions:
-![Percentage of hours worked](images/principal.gif)  
+![Percentage of hours worked](images/Principal.gif)  
 
 ### • Looker Studio Features:
 - A **Scorecard** was used to represent the total percentage, followed by a progress bar to show the measure toward 100%.
